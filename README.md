@@ -8,10 +8,10 @@ incomplete type technique 으로 구현하는 C의 다형성
 #include "dog.h"
 
 int main() {
-    struct animal* wild_cat = new_cat("야생의 고양이", true);
-    struct animal* house_cat = new_cat("집고양이", false);
-    struct animal* wild_dog = new_dog("야생의 강아지");
-    struct animal* house_dog = new_dog("집강아지");
+    animal_t* wild_cat = new_cat("야생의 고양이", true);
+    animal_t* house_cat = new_cat("집고양이", false);
+    animal_t* wild_dog = new_dog("야생의 강아지");
+    animal_t* house_dog = new_dog("집강아지");
 
     animal_walk(wild_cat);
     animal_walk(house_cat);
