@@ -13,4 +13,4 @@ build: $(OBJS)
 	@echo "./run 으로 실행시키세요"
 
 clean:
-	rm -f *.o
+	rm -f *.o run
