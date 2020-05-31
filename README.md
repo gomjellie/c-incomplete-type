@@ -33,3 +33,8 @@ output
 야생의 강아지가 헥헥 빠르게 걸어갑니다.
 집강아지가 헥헥 빠르게 걸어갑니다.
 ```
+
+## References
+
+- [https://github.com/Fetiu/c-polymorphism-example](https://github.com/Fetiu/c-polymorphism-example)
+
