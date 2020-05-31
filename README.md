@@ -34,6 +34,12 @@ output
 집강아지가 헥헥 빠르게 걸어갑니다.
 ```
 
+## Run
+
+```sh
+make build && ./run
+```
+
 ## References
 
 - [https://github.com/Fetiu/c-polymorphism-example](https://github.com/Fetiu/c-polymorphism-example)
