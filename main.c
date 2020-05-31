@@ -1,7 +1,4 @@
-#include <stdio.h>
-
 #include "animal.h"
-
 #include "cat.h"
 #include "dog.h"
 
